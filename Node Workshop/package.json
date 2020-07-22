@@ -1,0 +1,14 @@
+{
+  "name": "nodeshell",
+  "version": "1.0.0",
+  "description": "fullstack lab",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jeff garber",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
